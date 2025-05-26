@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning languages.
 - 🌱 I’m currently learning Web App development.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me digitore6@gmail.co
+- 📫 How to reach me digitore6@gmail.com
 - ⚡ Fun fact: Love coding
 
 <!---
